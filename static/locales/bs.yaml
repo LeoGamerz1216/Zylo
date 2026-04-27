@@ -1,0 +1,137 @@
+# Put the name of your locale in the same language
+Locale Name: 'Bosanski'
+
+# Webkit Menu Bar
+File: 'Datoteka'
+Quit: 'Napusti'
+Edit: 'Uredi'
+Undo: 'Poništi'
+Redo: 'Ponovi'
+Cut: 'Izreži'
+Copy: 'Kopiraj'
+Paste: 'Zalijepi'
+Delete: 'Izbriši'
+Select all: 'Odaberi sve'
+Toggle Developer Tools: 'Uključi alate za programere'
+Actual size: 'Stvarna veličina'
+Zoom in: 'Uvećaj'
+Zoom out: 'Umanji'
+Toggle fullscreen: 'Uključi/isključi cijeli ekran'
+Window: 'Prozor'
+Minimize: 'Umanji'
+Close: 'Zatvori'
+Back: 'Nazad'
+Forward: 'Naprijed'
+
+Version {versionNumber} is now available!  Click for more details: 'Verzija {versionNumber} je sada dostupna! Kliknite za više detalja'
+Download From Site: 'Preuzmi sa stranice'
+
+Global:
+  Sort By: 'Poredaj po'
+
+# Search Bar
+  Live: Uživo
+  Videos: Videozapisi
+  Shorts: Shorts
+Search / Go to URL: 'Pretraži / idi na URL'
+  # In Filter Button
+Search Filters:
+  Search Filters: 'Pretraži filtere'
+  Prioritize:
+    Most Relevant: 'Najrelevantnije'
+  Time:
+    Time: 'Vrijeme'
+    Any Time: 'Bilo kada'
+    Today: 'Danas'
+    This Week: 'Ove sedmice'
+    This Month: 'Ovog Mjeseca'
+    This Year: 'Ove godine'
+  Type:
+    Type: 'Vrsta'
+    All Types: 'Sve vrste'
+    Videos: 'Videozapisi'
+    Channels: 'Kanali'
+    #& Playlists
+  Duration:
+    Duration: 'Trajanje'
+    All Durations: 'Sva trajanja'
+    '< 3 minutes': '<3 minute'
+    '> 20 minutes': '>20 minuta'
+  # On Search Page
+  Search Results: 'Rezultati pretrage'
+  Fetching results. Please wait: 'Pribavljanje rezultata. Molim pričekajte'
+  Fetch more results: 'Prikaži više rezultata'
+# Sidebar
+Subscriptions:
+    # On Subscriptions Page
+  Subscriptions: 'Pretplate'
+  This profile has a large number of subscriptions. Forcing RSS to avoid rate limiting: 'Ovaj profil ima veliki broj pretplata. Prisiljavanje RSS-a da izbjegne ograničenje brzine'
+  'Your Subscription list is currently empty. Start adding subscriptions to see them here.': 'Vaša lista pretplata je trenutno prazna. Počnite dodavati pretplate da biste ih vidjeli ovdje.'
+  Load More Videos: 'Učitaj još videa'
+Trending:
+  Trending: 'U trendu'
+  Sports: Sportovi
+Most Popular: 'Najpopularnije'
+Playlists: 'Plejliste'
+User Playlists:
+  Your Playlists: 'Tvoje plejliste'
+History:
+  # On History Page
+  History: 'Istorija'
+  Watch History: 'Historija gledanja'
+  Your history list is currently empty.: 'Vaša lista historije je trenutno prazna.'
+Settings:
+  # On Settings Page
+  Settings: 'Postavke'
+  The app needs to restart for changes to take effect. Restart and apply change?: 'Aplikacija se mora ponovo pokrenuti da bi promjene stupile na snagu. Ponovo pokrenuti i primijeniti promjene?'
+  General Settings:
+    General Settings: 'Generalne postavke'
+    Check for Updates: 'Provjeri ažuriranja'
+    Fallback to Non-Preferred Backend on Failure: 'Povratak na nepreferirani backend u slučaju kvara'
+    Enable Search Suggestions: 'Omogući prijedloge pretraživanja'
+    Default Landing Page: 'Zadana odredišna stranica'
+    Locale Preference: 'Preferencija lokacije'
+    Preferred API Backend:
+      Preferred API Backend: 'Poželjni API Backend'
+      Local API: 'Lokalni API'
+      Invidious API: 'Invidious API'
+    Video View Type:
+      Video View Type: 'Vrsta pregleda videa'
+      Grid: 'Mreža'
+      List: 'Lista'
+    Thumbnail Preference:
+      Thumbnail Preference: 'Preferencija za sličice'
+      Default: 'Zadano'
+      Beginning: 'Početak'
+      Middle: 'Srednji'
+      End: 'Kraj'
+    Region for Trending: 'Regija za trendove'
+        #! List countries
+  Theme Settings:
+    Theme Settings: 'Postavke teme'
+    Match Top Bar with Main Color: 'Uskladite gornju traku s glavnom bojom'
+Channel:
+  Videos:
+    Videos: Videozapisi
+Tooltips: {}
+No: 'Ne'
+New Window: Novi Prozor
+Search Listing:
+  Label:
+    4K: 4K
+    8K: 8K
+KeyboardShortcutPrompt:
+  Toggle Developer Tools: Uključi/isključi alate za razvojne programere
+  Zoom In: Uvećaj
+  Zoom Out: Umanji
+  Fullscreen: Uključi/isključi cijeli ekran
+Preferences: Postavke
+Profile:
+  Select All: Odaberi sve
+Compact side navigation: Kompaktna bočna navigacija
+Expand side navigation: Proširi bočnu navigaciju
+Right-click or hold to see history: Kliknite desnim tasterom miša ili zadržite da biste vidjeli istoriju
+Open New Window: Otvori novi prozor
+Go to page: Idi na {page}
+Close Banner: Zatvori baner
+Are you sure you want to open this link?: Jeste li sigurni da želite otvoriti ovaj link?
