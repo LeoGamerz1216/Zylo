@@ -7035,10 +7035,10 @@ sanitize-filename@^1.6.3:
   dependencies:
     truncate-utf8-bytes "^1.0.0"
 
-sass-loader@^16.0.7:
-  version "16.0.7"
-  resolved "https://registry.npmjs.org/sass-loader/-/sass-loader-16.0.7.tgz#d1f8723b795805831d41b5825e3d9cd72cb939e7"
-  integrity sha512-w6q+fRHourZ+e+xA1kcsF27iGM6jdB8teexYCfdUw0sYgcDNeZESnDNT9sUmmPm3ooziwUJXGwZJSTF3kOdBfA==
+sass-loader@^16.0.8:
+  version "16.0.8"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-16.0.8.tgz#b7eef3b7947b32e2988dd760a2f7f0d547838e6b"
+  integrity sha512-hcov4ZwZJIGbEuyNr9EmiTmZueyrxSToE6GOzoZnq5JM7ecRO7ttyvilPn+VmRsqiP16+VYZzVnGZj/hzZgKBA==
   dependencies:
     neo-async "^2.6.2"
 
@@ -8138,10 +8138,10 @@ webpack-dev-middleware@^7.4.2:
     range-parser "^1.2.1"
     schema-utils "^4.0.0"
 
-webpack-dev-server@^5.2.3:
-  version "5.2.3"
-  resolved "https://registry.npmjs.org/webpack-dev-server/-/webpack-dev-server-5.2.3.tgz#7f36a78be7ac88833fd87757edee31469a9e47d3"
-  integrity sha512-9Gyu2F7+bg4Vv+pjbovuYDhHX+mqdqITykfzdM9UyKqKHlsE5aAjRhR+oOEfXW5vBeu8tarzlJFIZva4ZjAdrQ==
+webpack-dev-server@^5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/webpack-dev-server/-/webpack-dev-server-5.2.4.tgz#6e6306ce59848ed322c235e48b326632b1eed6d6"
+  integrity sha512-GqDPGZN9bRqKBTkp4aWkobDDHMsrXKoGSdOH56smIri8qR0JG8gfL8/v/f/OZR3/OKXjG8uwJbFVhKm/FNU/UA==
   dependencies:
     "@types/bonjour" "^3.5.13"
     "@types/connect-history-api-fallback" "^1.5.4"
